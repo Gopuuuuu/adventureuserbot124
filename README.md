@@ -1,19 +1,19 @@
-[![Github Repo](https://github.com/H1M4N5HU0P/MAFIA-USERBOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+[![Github Repo](https://github.com/Gopuuuuu/adventureuserbot124.git)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](@teri_behn_ka_bf)
 
 
-# 𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
+# `✵•.¸,✵°✵.｡.✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰.｡.✵°✵,¸.•✵´ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-Mafia userbot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MAFIA_USERBOT THANKS FOR VISITING OUR REPO💖
-[![MAFIA logo](https://telegra.ph/file/b61486075c6ef73dd0d12.png)](https://t.me/MAFIA_USERBOT)
+Mafia userbot made by @H1M4N5HU0P. Supported by respective adventurefamily group owner @teri_behn_ka_bf Join for update related info channel and group :- https://t.me/adventure_family THANKS FOR VISITING OUR REPO💖
+[![adventure logo](https://telegra.ph/file/02b3cd87cd7d9b2eac7b1.jpg)](https://t.me/adventure_family)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
 
 
 # For any query:-
-### [Join Here For Any Query](https://t.me/MAFIA_USERBOT)
+### [Join Here For Any Query](https://t.me/adventure_family) 
 
 # FORK AT YOUR OWN RISK
 
@@ -24,7 +24,7 @@ Mafia userbot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-USERBOT&template=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-USERBOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 # Credits👀
-### • [HellBot](https://github.com/HellBoy-OP/HellBot)
+### • [HellBot](https://github.com/Gopuuuuu/adventureuserbot.git
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## The Normal Way
