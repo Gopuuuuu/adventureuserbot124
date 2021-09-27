@@ -21,17 +21,17 @@ pm_caption += f"               👑𝕄𝔸𝕊𝕋𝔼ℝ👑\n**『[{DEFAULTUS
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"😈𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋😈       : `{mafiaversion}`\n"
+pm_caption += f"😈`✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋😈       : `{mafiaversion}`\n"
 
 pm_caption += f"😱Sudo😱            : `{sudou}`\n"
 
-pm_caption += "😇CHANNEL😇️   : [ᴊᴏɪɴ](https://t.me/MAFIA_USERBOT)\n"
+pm_caption += "😇CHANNEL😇️   : [ᴊᴏɪɴ](https://t.me/adventure_family)\n"
 
-pm_caption += "😎CREATOR😎    : [Himanshu](https://t.me/H1M4N5HU0P)\n\n"
+pm_caption += "😎CREATOR😎    : [gopal](@teri_behn_ka_bf)\n\n"
 
-pm_caption += "🤩SUPPORTER🤩    :[HellBoy](https://t.me/kraken_the_badass)\n\n"
+pm_caption += "🤩SUPPORTER🤩    :[HellBoy](@export_gabber)\n\n"
 
-pm_caption += "      [✨REPO✨](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) 🔹 [📜License📜](https://github.com/H1M4N5HU0P/MAFIA-USERBOT/blob/main/LICENSE)"
+pm_caption += "      [✨REPO✨](https://github.com/Gopuuuuu/adventureuserbot.git) 🔹 [📜License📜](https://github.com/H1M4N5HU0P/MAFIA-USERBOT/blob/main/LICENSE)"
 #@command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
 @bot.on(sudo_cmd(pattern="alive$", allow_sudo=True))
