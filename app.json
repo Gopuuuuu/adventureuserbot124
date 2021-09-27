@@ -1,7 +1,7 @@
 {
-  "name": "𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-  "description": "The Mafia Userbot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MAFIA_USERBOT",
-  "logo": " https://telegra.ph/file/b61486075c6ef73dd0d12.jpg ",
+  "name": "`✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
+  "description": "The adventure Userbot made by @teri_behn_ka_bf special thanks to respective ourfrnd  @export_gabber. Join for updates related info @adventure_family",
+  "logo": " https://telegra.ph/file/02b3cd87cd7d9b2eac7b1.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIA-USERBOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIA-USERBOT/",
-  "success_url": "https://t.me/MAFIA_USERBOT",
+  "repository": "https://github.com/Gopuuuuu/adventureuserbot.git",
+  "website": "https://github.com/Gopuuuuu/adventureuserbot124/",
+  "success_url": "https://t.me/adventure_family",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
